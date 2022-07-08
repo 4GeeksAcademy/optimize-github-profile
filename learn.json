@@ -1,0 +1,12 @@
+{
+	"slug" : "how-to-customize-github-profile",
+	"title" : "How To Customize Github Profile",
+	"preview": "https://github.com/4GeeksAcademy/connecting-to-a-sql-database-project-tutorial/blob/main/assets/preview.png?raw=true",
+	"status": "published",
+	"translations": ["us"],
+	"technologies": ["markdown", "github", "software-developer-resume"],
+	"difficulty": "beginner",
+	"syntax": "markdown",
+	"duration" : 1,
+	"description" : "Build a customized github that stands out and showcases how you are, your projects and skills. Overall having a fun and friendly profile for recruiters and other developers to visit."
+}

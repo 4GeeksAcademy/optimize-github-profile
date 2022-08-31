@@ -8,6 +8,6 @@
 	"difficulty": "beginner",
 	"syntax": "markdown",
 	"duration" : 1,
-    "projectType": "project",
+    	"projectType": "project",
 	"description" : "Build a customized github profile that stands out and showcases how you are, your projects and skills. Overall having a fun and friendly profile for recruiters and other developers to visit."
 }

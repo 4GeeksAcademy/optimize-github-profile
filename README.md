@@ -12,7 +12,7 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 ### Github 
 
-- [ ] Read the [Github page](https://www.notion.so/4geeksacademy/About-Github-bdc3c43cbf4448c0a8bdcd9c16d9a219) 
+- [ ] Read the [Github page](https://4geeksacademy.notion.site/About-Github-bdc3c43cbf4448c0a8bdcd9c16d9a219) 
 
 - [ ] Profile picture
 Add a neat professional headshot or a cool avatar 

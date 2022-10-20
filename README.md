@@ -1,7 +1,7 @@
 
 # How to customize your github profile
 
-Github is one of the first platforms that recruiters visit when reviewing your developer profile, a strong github will make you stand out and may end up being paramaunt during your job search.
+Github is one of the first platforms that recruiters visit when reviewing your developer profile, a strong github will make you stand out and may end up being paramount during your job search.
 
 Build a customized github that stands out and showcases how you are, your projects and skills. Overall having a fun and friendly profile for recruiters and other developers to visit.
 
@@ -14,7 +14,7 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 - [ ] Read the [Github page](https://4geeksacademy.notion.site/About-Github-bdc3c43cbf4448c0a8bdcd9c16d9a219) 
 
-- [ ] Profile picture
+- [ ] Profile picture.
 Add a neat professional headshot or a cool avatar 
 
 ### Profile
@@ -32,7 +32,7 @@ Add a neat professional headshot or a cool avatar
 - [ ] Go to [ https://github.com/new](https://github.com/new)  just like when you want to create a new repository.
 - [ ] Name the repository with your username - for example, Riciglianomarcelo/Riciglianomarcelo
 - [ ]  As soon as you type it in, you will be greeted with a message telling you about this _secret_special/ repository 
-- [ ] Set the repository as _private_ while you’re working on your fancy README
+- [ ] Set the repository as **private** while you’re working on your fancy README
 - [ ] Write a few bullet points about yourself as a developer (projects you’re working on right now, interests, technologies you’re learning) 
 - [ ] Mention your interests and the type of projects you would like to collaborate in 
 - [ ] Add your LinkedIn link 

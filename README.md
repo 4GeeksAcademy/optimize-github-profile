@@ -24,20 +24,20 @@ Add a neat professional headshot or a cool avatar
 
 ### Create a stunning ReadMe
 
-- [ ] Check these  [awesome Github profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme)  for inspiration 
-- [ ] Watch this  [Youtube tutorial](https://www.youtube.com/watch?v=ECuqb5Tv9qI&feature=youtu.be)  
+- [ ] Check these [awesome Github profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme) for inspiration 
+- [ ] Watch this [Youtube tutorial](https://www.youtube.com/watch?v=ECuqb5Tv9qI&feature=youtu.be)  
 
 **If you prefer written instructions, follow the next steps:**
 
-- [ ] Go to [ https://github.com/new](https://github.com/new)  just like when you want to create a new repository.
+- [ ] Go to [ https://github.com/new](https://github.com/new) just like when you want to create a new repository.
 - [ ] Name the repository with your username - for example, Riciglianomarcelo/Riciglianomarcelo
 - [ ]  As soon as you type it in, you will be greeted with a message telling you about this _secret_special/ repository 
 - [ ] Set the repository as **private** while you’re working on your fancy README
 - [ ] Write a few bullet points about yourself as a developer (projects you’re working on right now, interests, technologies you’re learning) 
 - [ ] Mention your interests and the type of projects you would like to collaborate in 
 - [ ] Add your LinkedIn link 
-- [ ]  Add **GIF and emojis** Check out some resources to do it, here:
- [ https://emojipedia.org/emoji/](https://emojipedia.org/emoji/)  and then look up its HTML entity on [ https://www.fileformat.info/index.htm](https://www.fileformat.info/index.htm) _._
+- [ ] Add **GIF and emojis** Check out some resources to do it, here:
+ [ https://emojipedia.org/emoji/](https://emojipedia.org/emoji/) and then look up its HTML entity on [ https://www.fileformat.info/index.htm](https://www.fileformat.info/index.htm) _._
 - [ ] You can check out this ReadMe tutorial  [https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969)  
 
 ### Contribute & collaborate

@@ -12,9 +12,9 @@
 	"description" : "Build a customized github profile that stands out and showcases how you are, your projects and skills. Overall having a fun and friendly profile for recruiters and other developers to visit.",
 	"delivery": {
 		"instructions": {
-			"us": "Please upload your finished resume as a PDF file",
-			"es": "Porfavor adjunta tu resume/CV listo y como archivo PDF"
+			"us": "Please specify your github profile URL",
+			"es": "Por favor especifica el URL de tu perfil en Github"
 		},
-		"formats": ["application/pdf"]
+		"formats": ["url"]
 	}
 }

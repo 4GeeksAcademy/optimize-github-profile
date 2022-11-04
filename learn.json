@@ -9,5 +9,12 @@
 	"syntax": "markdown",
 	"duration" : 1,
     	"projectType": "project",
-	"description" : "Build a customized github profile that stands out and showcases how you are, your projects and skills. Overall having a fun and friendly profile for recruiters and other developers to visit."
+	"description" : "Build a customized github profile that stands out and showcases how you are, your projects and skills. Overall having a fun and friendly profile for recruiters and other developers to visit.",
+	"delivery": {
+		"instructions": {
+			"us": "Please upload your finished resume as a PDF file",
+			"es": "Porfavor adjunta tu resume/CV listo y como archivo PDF"
+		},
+		"formats": ["application/pdf"]
+	}
 }

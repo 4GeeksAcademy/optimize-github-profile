@@ -15,6 +15,7 @@
 			"us": "Please specify your github profile URL",
 			"es": "Por favor especifica el URL de tu perfil en Github"
 		},
-		"formats": ["url"]
+		"formats": ["url"],
+		"regex": "github.com"
 	}
 }

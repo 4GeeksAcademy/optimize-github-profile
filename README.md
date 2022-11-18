@@ -11,19 +11,20 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 ### Github 
 
-- [ ] Read the [Github page](https://4geeksacademy.notion.site/About-Github-bdc3c43cbf4448c0a8bdcd9c16d9a219).
-
-- [ ] Profile picture.
-Add a neat professional headshot or a cool avatar .
+- [ ] Read the [Github page](https://www.notion.so/4geeksacademy/GitHub-8d7f2e2b99f541c3b34c07f3987e9d59).
 
 ### Profile
 
+- [ ] **Profile picture** - Add a neat professional headshot or a cool avatar .
+
 - [ ] Write a short bio: 1-2 sentences about yourself as a developer.
+
 - [ ] Add your email link.
 
 ### Create a stunning ReadMe
 
 - [ ] Check these [awesome Github profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme) for inspiration.
+
 - [ ] Watch this [Youtube tutorial](https://www.youtube.com/watch?v=ECuqb5Tv9qI&feature=youtu.be). 
 
 **If you prefer written instructions, follow the next steps:**

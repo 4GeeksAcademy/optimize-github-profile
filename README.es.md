@@ -1,5 +1,6 @@
-
+<!-- hide -->
 # Cómo personalizar tu perfil de github
+<!-- endhide -->
 
 Github es una de las primeras plataformas que visitan los reclutadores cuando revisan tu perfil de desarrollador, un github sólido te hará sobresalir y puede terminar siendo primordial durante tu búsqueda de empleo.
 

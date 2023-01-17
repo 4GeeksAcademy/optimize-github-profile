@@ -1,9 +1,10 @@
-
+<!-- hide -->
 # How to customize your github profile
+<!-- endhide -->
 
 Github is one of the first platforms that recruiters visit when reviewing your developer profile, a strong github will make you stand out and may end up being paramount during your job search.
 
-Build a customized github that stands out and showcases how you are, your projects and skills. Overall having a fun and friendly profile for recruiters and other developers to visit.
+Build a customized github that stands out and showcases how you are, your projects, and your skills. Overall having a fun and friendly profile for recruiters and other developers to visit.
 
 ## 📝 Instructions
 
@@ -15,7 +16,7 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 ### Profile
 
-- [ ] **Profile picture** - Add a neat professional headshot or a cool avatar .
+- [ ] **Profile picture** - Add a neat professional headshot or a cool avatar.
 
 - [ ] Write a short bio: 1-2 sentences about yourself as a developer.
 

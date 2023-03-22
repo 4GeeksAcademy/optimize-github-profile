@@ -22,11 +22,13 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 
 - [ ] Agrega tu enlace de correo electronico. 
 
-### Create a stunning ReadMe
+### Crea un ReadMe Maravilloso
 
 - [ ] Mira estos [perfiles increíbles de Github](https://github.com/abhisheknaiidu/awesome-github-profile-readme) para inspiración.
 
 - [ ] Mira este [tutorial de Youtube](https://www.youtube.com/watch?v=Rw887TSEQz0). 
+
+- [ ] Revisa está página para [generar](https://rahuldkjain.github.io/gh-profile-readme-generator/) tu ReadMe
 
 **Si prefieres instrucciones escritas, sigue los siguientes pasos:**
 

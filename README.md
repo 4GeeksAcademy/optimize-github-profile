@@ -28,6 +28,8 @@ Please read carefully the following task list and mark the checkboxes as you com
 
 - [ ] Watch this [Youtube tutorial](https://www.youtube.com/watch?v=ECuqb5Tv9qI&feature=youtu.be). 
 
+- [ ] Check this [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
 **If you prefer written instructions, follow the next steps:**
 
 - [ ] Go to [https://github.com/new](https://github.com/new) just like when you want to create a new repository.

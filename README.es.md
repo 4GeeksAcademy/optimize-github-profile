@@ -4,7 +4,7 @@
 
 Github es una de las primeras plataformas que visitan los reclutadores cuando revisan tu perfil de desarrollador, un github sólido te hará sobresalir y puede terminar siendo primordial durante tu búsqueda de empleo.
 
-Crea un github personalizado que se destaque y muestre cómo eres tú, tus proyectos y habilidades. En general, tener un perfil divertido y amigable para que lo visiten los reclutadores y otros desarrolladores.
+Crea un github personalizado que se destaque y muestre cómo eres tú, tus proyectos y habilidades. En general, tener un perfil divertido y amigable para que lo visiten los reclutadores y otros profesionales.
 
 ## 📝 Instrucciones
 
@@ -35,7 +35,6 @@ Lee atentamente la siguiente lista de tareas y marca las casillas de verificaci�
 - [ ] Ve a [ https://github.com/new](https://github.com/new) como cuando quieres crear un nuevo repositorio.
 - [ ] Nombra el repositorio con tu nombre de usuario, por ejemplo, Riciglianomarcelo/Riciglianomarcelo.
 - [ ] Tan pronto como lo ingreses, recibirás un mensaje que te informará sobre este repositorio _secret_special/.
-- [ ] Configura el repositorio como **privado** mientras trabajas en tu elegante README.
 - [ ] Escribe algunas viñetas sobre ti como desarrollador (proyectos en los que estás trabajando en este momento, intereses, tecnologías que estás aprendiendo)
 - [ ] Menciona tus intereses y el tipo de proyectos en los que te gustaría colaborar. 
 - [ ] Añade tu enlace de LinkedIn 
